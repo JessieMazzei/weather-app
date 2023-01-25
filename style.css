@@ -20,7 +20,7 @@ h2 {
   padding: 0;
 }
 h3 {
-  display: inline-blo;
+  display: inline-block;
 }
 img {
   display: inline-block;
@@ -58,4 +58,8 @@ ul {
 .week {
   align-items: center;
   justify-items: center;
+}
+.footer {
+  display: inline-block;
+  margin-left: 200px;
 }
